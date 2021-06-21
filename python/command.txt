@@ -1,0 +1,4 @@
+python Assignment7.py 25PercentFill.txt
+python Assignment7.py 50PercentFill.txt
+python Assignment7.py 75PercentFill.txt
+python Assignment7.py 95PercentFill.txt

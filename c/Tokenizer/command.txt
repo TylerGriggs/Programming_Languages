@@ -1,0 +1,1 @@
+gcc -std=c99 Analyzer.c Givens.c Parser.c Tokenizer.c -o runAss4
